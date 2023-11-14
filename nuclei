@@ -1,4 +1,4 @@
-<h2>Nuclei Cheat Sheet</h2>
+Nuclei Cheat Sheet
 
 # Identify web technologies
 nuclei -u https://example.com -as 
