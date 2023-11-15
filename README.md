@@ -1,6 +1,6 @@
 # tool-cheat-sheets
 git clone <repo-link> <br>
-git status
-git add --all
-git commit -m "<mesaage>"
-git push origin main
+git status <br>
+git add --all <br> 
+git commit -m "<mesaage>" <br>
+git push origin main <br>
